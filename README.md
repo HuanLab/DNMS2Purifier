@@ -1,5 +1,4 @@
 # DNMS2Purifier
-# BUDDY
 [![Generic badge](https://img.shields.io/badge/DNMS2Purifier-ver_1.0-<COLOR>.svg)](https://github.com/HuanLab/DNMS2Purifier)
 ![Maintainer](https://img.shields.io/badge/maintainer-Tingting_Zhao,_Tao_Huan-blue)
 
