@@ -6,4 +6,4 @@ DNMS2Purifier is a bioinformatic solution that purifies chimeric MS/MS spectra f
 
 The R script [DNMS2Purifier.r](https://github.com/HuanLab/DNMS2Purifier/blob/main/DNMS2Purifier.R) is the main program for MS/MS purification, we also provide the script [DNMS2Purifier_model_generation.r](https://github.com/HuanLab/DNMS2Purifier/blob/main/DNMS2Purifier_model_generation.R) for customized model training.
 
-The program is written in R (ver 4.2.1). [The user manual]([https://github.com/HuanLab/DNMS2Purifier/blob/main/DNMS2Purifier_user_manual.doc](https://github.com/TingtingZhao81/DNMS2Purifier-1/blob/main/DNMS2Purifier_user_manual.docx)) is provided.
+The program is written in R (ver 4.2.1). [The user manual](https://github.com/TingtingZhao81/DNMS2Purifier-1/blob/main/DNMS2Purifier_user_manual.docx) is provided.
